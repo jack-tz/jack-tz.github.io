@@ -3,22 +3,18 @@ cv:
   email: ztz2@student.unimelb.edu.au
   location: Melbourne, Australia
 
-  summary: >
-    PhD student at the University of Melbourne
-    with research interests in computer security,
-    cloud security, and automated security analysis.
-
   social_networks:
     - network: GitHub
       username: jack-tz
     - network: LinkedIn
-      username: www.linkedin.com/in/jack-zhang-375a1b314
+      username: jack-zhang-375a1b314
 
   sections:
     Education:
       - institution: The University of Melbourne
         location: Melbourne, Australia
         area: Computer Science
+        degree: Doctor of Philosophy
         studyType: Doctor of Philosophy
         start_date: 2026
         end_date: present
@@ -28,6 +24,7 @@ cv:
       - institution: The University of Melbourne
         location: Melbourne, Australia
         area: Computer Science
+        degree: Master of Computer Science
         studyType: Master of Computer Science
         start_date: 2024-03
         end_date: 2025-12
@@ -39,6 +36,7 @@ cv:
       - institution: The University of Melbourne
         location: Melbourne, Australia
         area: Computer Science
+        degree: Bachelor of Science
         studyType: Bachelor of Science
         start_date: 2020-03
         end_date: 2023-12
@@ -49,7 +47,7 @@ cv:
       - company: The University of Melbourne
         position: Tutor
         location: Melbourne, Australia
-        start_date: 2026
+        start_date: 2025
         end_date: 2026
         summary: SWEN90006 - Software Testing and Security
         highlights:
@@ -59,8 +57,8 @@ cv:
       - company: The University of Melbourne
         position: Tutor
         location: Melbourne, Australia
-        start_date: 2025
-        end_date: 2025
+        start_date: 2024
+        end_date: 2026
         summary: COMP30023 - Computer Systems
         highlights:
           - Semester 1, 2026.
@@ -80,8 +78,7 @@ cv:
           - Multi-layer attack path detection.
 
       - name: LLM-Assisted Stateful Fuzzing
-        start_date: 2025
-        end_date: 2025
+        date: "2025"
         summary: >
           Investigating the application of large language
           models to stateful fuzzing of network protocols.
@@ -91,34 +88,49 @@ cv:
           - Coverage-guided fuzzing.
 
     Interests:
-      - name: Computer Security
+      - label: Computer Security
+        name: Computer Security
         icon: fa-solid fa-shield-halved
+        details: >
+          Cloud Security, Software Security,
+          Privilege Escalation, Attack Graphs,
+          Automated Security Analysis
         keywords: >
           Cloud Security, Software Security,
           Privilege Escalation, Attack Graphs,
           Automated Security Analysis
 
-      - name: Software Testing
+      - label: Software Testing
+        name: Software Testing
         icon: fa-solid fa-code
+        details: >
+          Fuzzing, Vulnerability Detection,
+          Automated Testing, Large Language Models
         keywords: >
           Fuzzing, Vulnerability Detection,
           Automated Testing, Large Language Models
 
     Skills:
-      - name: Programming
+      - label: Programming
+        name: Programming
         icon: fa-solid fa-code
+        details: Python, C, Java, SQL
         keywords: Python, C, Java, SQL
 
-      - name: Cloud and Infrastructure
+      - label: Cloud and Infrastructure
+        name: Cloud and Infrastructure
         icon: fa-solid fa-cloud
+        details: AWS, Docker, Terraform, Linux
         keywords: AWS, Docker, Terraform, Linux
 
-      - name: Security Analysis
+      - label: Security Analysis
+        name: Security Analysis
         icon: fa-solid fa-shield-halved
-        keywords: >
-          AFL, AFLNet, PMapper, Prowler,
-          Cloudsplaining
+        details: AFL, AFLNet, PMapper, Prowler, Cloudsplaining
+        keywords: AFL, AFLNet, PMapper, Prowler, Cloudsplaining
 
-      - name: Research Tools
+      - label: Research Tools
+        name: Research Tools
         icon: fa-solid fa-laptop
+        details: Git, LaTeX, Neo4j
         keywords: Git, LaTeX, Neo4j
