@@ -6,7 +6,7 @@ subtitle: PhD Student in Computer Science, <a href="https://www.unimelb.edu.au/"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jack_zhang.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>School of Computing and Information Systems</p>
