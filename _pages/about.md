@@ -27,16 +27,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at the Faculty of 
-Engineering and Information Technology, The University of
-Melbourne. My research is under the supervision of 
-Dr Thuan Pham, Dr Shaanan Cohney and Prof. Toby Murray.
+I am a PhD student in Computer Science at the
+[School of Computing and Information Systems](https://cis.unimelb.edu.au/),
+The University of Melbourne, under the supervision of
+[Dr Thuan Pham](https://thuanpv.github.io/),
+[Dr Shaanan Cohney](https://cohney.info/) and
+[Prof. Toby Murray](https://people.eng.unimelb.edu.au/tobym/).
 
 My research interests broadly lie in computer security
 and automated software and systems security analysis.
-My current research focuses on cloud security, particularly
-the automated detection of privilege escalation paths in
-cloud environments.
+My current research focuses on cloud security,
+particularly the automated detection of privilege
+escalation paths in cloud environments.
 
 Prior to my PhD, I completed a Master of Computer Science
 and a Bachelor of Science at the University of Melbourne.
