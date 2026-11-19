@@ -1,9 +1,8 @@
 cv:
   name: Tian Zhang
-  label: PhD Student in Computer Science
   email: ztz2@student.unimelb.edu.au
   location: Melbourne, Australia
-  image: ""
+
   summary: >
     PhD student at the University of Melbourne
     with research interests in computer security,
@@ -19,7 +18,6 @@ cv:
     Education:
       - institution: The University of Melbourne
         location: Melbourne, Australia
-        url: https://www.unimelb.edu.au/
         area: Computer Science
         studyType: Doctor of Philosophy
         start_date: 2026
