@@ -37,8 +37,8 @@ The University of Melbourne, under the supervision of
 My research interests broadly lie in computer security
 and automated software and systems security analysis.
 My current research focuses on cloud security,
-particularly the automated detection of privilege
-escalation paths in cloud environments.
+particularly the automated detection of security vulnerabilities
+within cloud environments.
 
 Prior to my PhD, I completed a Master of Computer Science
 and a Bachelor of Science at the University of Melbourne.
