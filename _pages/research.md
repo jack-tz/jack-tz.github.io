@@ -14,7 +14,7 @@ nav_order: 1
 *PhD Research | 2026 – Present*
 
 My current research investigates automated techniques
-for identifying privilege escalation paths in cloud
+for identifying security vulnerabilities in cloud
 environments. In particular, I am interested in reasoning
 about security risks arising from the interactions between
 identity and access management, network connectivity,
